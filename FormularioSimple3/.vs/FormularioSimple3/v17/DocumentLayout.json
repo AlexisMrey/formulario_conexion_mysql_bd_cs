@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alexis\\source\\repos\\FormularioSimple3\\FormularioSimple3\\",
+  "WorkspaceRootPath": "C:\\laragon\\www\\formulario_conexion_mysql_bd_cs\\FormularioSimple3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1C4354B5-3964-401D-B384-89533D473F7E}|FormularioSimple3.csproj|c:\\users\\alexis\\source\\repos\\formulariosimple3\\formulariosimple3\\frmdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C4354B5-3964-401D-B384-89533D473F7E}|FormularioSimple3.csproj|c:\\laragon\\www\\formulario_conexion_mysql_bd_cs\\formulariosimple3\\frmdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C4354B5-3964-401D-B384-89533D473F7E}|FormularioSimple3.csproj|solutionrelative:frmdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C4354B5-3964-401D-B384-89533D473F7E}|FormularioSimple3.csproj|c:\\users\\alexis\\source\\repos\\formulariosimple3\\formulariosimple3\\dataaccess\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1C4354B5-3964-401D-B384-89533D473F7E}|FormularioSimple3.csproj|C:\\laragon\\www\\formulario_conexion_mysql_bd_cs\\FormularioSimple3\\dataaccess\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1C4354B5-3964-401D-B384-89533D473F7E}|FormularioSimple3.csproj|solutionrelative:dataaccess\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C4354B5-3964-401D-B384-89533D473F7E}|FormularioSimple3.csproj|c:\\users\\alexis\\source\\repos\\formulariosimple3\\formulariosimple3\\frmdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1C4354B5-3964-401D-B384-89533D473F7E}|FormularioSimple3.csproj|C:\\laragon\\www\\formulario_conexion_mysql_bd_cs\\FormularioSimple3\\frmdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1C4354B5-3964-401D-B384-89533D473F7E}|FormularioSimple3.csproj|solutionrelative:frmdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FrmDatos.cs",
-              "DocumentMoniker": "C:\\Users\\alexis\\source\\repos\\FormularioSimple3\\FormularioSimple3\\FrmDatos.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\formulario_conexion_mysql_bd_cs\\FormularioSimple3\\FrmDatos.cs",
               "RelativeDocumentMoniker": "FrmDatos.cs",
-              "ToolTip": "C:\\Users\\alexis\\source\\repos\\FormularioSimple3\\FormularioSimple3\\FrmDatos.cs",
+              "ToolTip": "C:\\laragon\\www\\formulario_conexion_mysql_bd_cs\\FormularioSimple3\\FrmDatos.cs",
               "RelativeToolTip": "FrmDatos.cs",
-              "ViewState": "AQIAAA8AAAAQmZmZmRk4wAAAAAAAAAAA",
+              "ViewState": "AQIAABAAAABAZGZmZmYcwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-23T06:41:25.793Z",
               "EditorCaption": ""
@@ -45,26 +45,24 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FrmDatos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\alexis\\source\\repos\\FormularioSimple3\\FormularioSimple3\\FrmDatos.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\formulario_conexion_mysql_bd_cs\\FormularioSimple3\\FrmDatos.cs",
               "RelativeDocumentMoniker": "FrmDatos.cs",
               "ToolTip": "C:\\Users\\alexis\\source\\repos\\FormularioSimple3\\FormularioSimple3\\FrmDatos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FrmDatos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\alexis\\source\\repos\\FormularioSimple3\\FormularioSimple3\\FrmDatos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T06:33:12.485Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-04-23T06:33:12.485Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\alexis\\source\\repos\\FormularioSimple3\\FormularioSimple3\\DataAccess\\Conexion.cs",
+              "DocumentMoniker": "C:\\laragon\\www\\formulario_conexion_mysql_bd_cs\\FormularioSimple3\\DataAccess\\Conexion.cs",
               "RelativeDocumentMoniker": "DataAccess\\Conexion.cs",
-              "ToolTip": "C:\\Users\\alexis\\source\\repos\\FormularioSimple3\\FormularioSimple3\\DataAccess\\Conexion.cs",
+              "ToolTip": "C:\\laragon\\www\\formulario_conexion_mysql_bd_cs\\FormularioSimple3\\DataAccess\\Conexion.cs",
               "RelativeToolTip": "DataAccess\\Conexion.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T06:40:20.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T06:40:20.25Z"
             }
           ]
         }
